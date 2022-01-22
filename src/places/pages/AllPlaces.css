@@ -1,0 +1,7 @@
+.all-places {
+  display: flex;
+  justify-content: space-between;
+  justify-content: space-around;
+  width: 100%;
+  flex-wrap: wrap;
+}
